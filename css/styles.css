@@ -1,0 +1,32 @@
+h1  {
+<<<<<<< HEAD
+    height: 100px;
+    font-family: monospace;
+    background-color: #a74ee7;
+    display: inline-block;
+    padding-top: 25px;
+    margin: 50px;
+}
+
+header {
+    background-color: goldenrod;
+    height: 45px;
+    margin-left: 500px;
+    padding-top: 10px;
+    margin: 20px;
+}
+
+nav {
+    height: 5px;
+    width: 20px;
+}
+
+.nav {
+    height: 2px;
+=======
+    font-family: fantasy;
+    background-color: aquamarine;
+    height: 100px;
+    padding-left: 500px;
+>>>>>>> b9e18dfc8a48a77f839caab118bbc33e0b2daf53
+}
